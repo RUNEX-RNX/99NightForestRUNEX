@@ -1,0 +1,13 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ProBaconHub/DATABASE/refs/heads/main/99%20Nights%20in%20the%20Forest/Infinite%20Health.lua"))()
+--[[
+     🧑🏻‍💻RUNEX X SCRIPT🧑🏻‍💻 
+     telegram Channel t.me/RUNEX_X_SCRIPT
+     telegram profile @RUNEX_RNX
+     Join for new script😜
+]]
+-- script info notifications
+game.StarterGui:SetCore("SendNotification", {
+    Title = "😈Immortality😈\nRUNEX X SCRIPT";
+    Text = "You are immortal";
+    Duration = 8;
+})
